@@ -32,7 +32,7 @@ async function downloadFile(url, output) {
 
 cleanup()
 
-fetch('https://api.github.com/repos/tweakphp/client/releases/latest')
+fetch('https://api.github.com/repos/gander-tools/tweakphp-client/releases/latest')
   .then(response => response.json())
   .then(data => {
     data.assets.forEach(async asset => {

@@ -6,11 +6,11 @@
     "name": "Saeed Vaziry",
     "email": "mr.saeedvaziry@gmail.com"
   },
-  "version": "0.3.0",
+  "version": "0.0.1",
   "main": "dist/main.js",
   "scripts": {
     "dev": "vite",
-    "update-clients": "node ./scripts/update-clients.js",
+    "update-clients": "node ./scripts/update-clients.mjs",
     "resolve-icon-path": "node ./scripts/resolve-icon-path.js",
     "build": "vue-tsc && vite build",
     "build-base": "npm run build && npm run resolve-icon-path",
@@ -39,8 +39,8 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "tweakphp",
-      "repo": "tweakphp",
+      "owner": "gander-tools",
+      "repo": "tweakphp-app",
       "private": false
     },
     "directories": {

@@ -13,11 +13,11 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/github/downloads/tweakphp/tweakphp/total" />
+  <img src="https://img.shields.io/github/downloads/gander-tools/tweakphp-app/total" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/tweakphp/tweakphp/releases">Download Now</a> | <a href="https://discord.gg/Et3UTT4xwC">Discord</a>
+  <a href="https://github.com/gander-tools/tweakphp-app/releases">Download Now</a> | <a href="https://discord.gg/Et3UTT4xwC">Discord</a>
 </div>
 
 <hr>
@@ -53,7 +53,7 @@ https://youtu.be/3KnzaQJK7NU?si=lHIb3GmZYyXiQ2cB
 
 ## Installation
 
-Download and install the latest version from the [Releases](https://github.com/tweakphp/tweakphp/releases) page.
+Download and install the latest version from the [Releases](https://github.com/gander-tools/tweakphp-app/releases) page.
 
 ### MacOS
 

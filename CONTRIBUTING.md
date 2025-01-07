@@ -14,7 +14,7 @@ Feel free to pick an unassigned one. Drop a comment so we can assign it to you.
 
 ## Development Discussion
 
-You may propose new features or improvements to existing behavior in the repository's [Discussion Board](https://github.com/tweakphp/tweakphp/discussions). If you propose a new feature, please be willing to implement at least some of the code that would be needed to complete the feature.
+You may propose new features or improvements to existing behavior in the repository's [Discussion Board](https://github.com/gander-tools/tweakphp-app/discussions). If you propose a new feature, please be willing to implement at least some of the code that would be needed to complete the feature.
 
 ## Security Vulnerabilities
 
