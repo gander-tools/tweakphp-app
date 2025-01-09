@@ -56,8 +56,7 @@
             "arm64"
           ]
         },
-        "deb",
-        "snap"
+        "deb"
       ],
       "desktop": {
         "Name": "TweakPHP",
